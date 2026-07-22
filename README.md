@@ -74,5 +74,5 @@ Based on the findings, the following short-term and long-term security controls 
 ---
 
 ## 🧑‍💻 Author & Contact
-- **Analyzed By:** James | IT Specialist & Civil Service Professional
+- **Analyzed By:** Jeffrey M. Nadado | IT Specialist & Civil Service Professional
 - **Certifications:** TESDA Cybersecurity Monitoring, Cisco NetAcad Junior Cybersecurity Analyst
